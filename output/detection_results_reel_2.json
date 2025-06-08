@@ -1,0 +1,18 @@
+{
+  "video_id": "reel_2",
+  "vibes": "['Coquette', 'Boho']\n",
+  "products": [
+    {
+      "type": "vest_dress",
+      "matched_product_id": "42030",
+      "match_type": "exact",
+      "confidence": 0.8796792030334473
+    },
+    {
+      "type": "vest",
+      "matched_product_id": "16087",
+      "match_type": "exact",
+      "confidence": 0.7940737009048462
+    }
+  ]
+}

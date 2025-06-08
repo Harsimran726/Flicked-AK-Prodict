@@ -1,0 +1,18 @@
+{
+  "video_id": "reel_4",
+  "vibes": null,
+  "products": [
+    {
+      "type": "vest",
+      "matched_product_id": "97555",
+      "match_type": "exact",
+      "confidence": 0.7748377919197083
+    },
+    {
+      "type": "short_sleeved_shirt",
+      "matched_product_id": "17161",
+      "match_type": "exact",
+      "confidence": 0.8393710851669312
+    }
+  ]
+}
